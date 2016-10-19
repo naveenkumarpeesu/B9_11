@@ -1,0 +1,16 @@
+Index: app/src/main/res/layout/activity_main.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/activity_main.xml	(revision 8ebaebb43bcf30f97f0a35d22b533375d7968f29)
++++ app/src/main/res/layout/activity_main.xml	(revision )
+@@ -32,7 +32,7 @@
+         style="?android:attr/buttonStyleSmall"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+-        android:text="@string/app_name"
++        android:text="@string/my_self"
+         android:id="@+id/button3"
+         android:layout_gravity="right" />
+ 
